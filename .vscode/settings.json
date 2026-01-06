@@ -46,5 +46,10 @@
     "scss",
     "pcss",
     "postcss"
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#262E38",
+    "titleBar.activeBackground": "#36414F",
+    "titleBar.activeForeground": "#F9FAFB"
+  }
 }
